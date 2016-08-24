@@ -8,7 +8,7 @@ public class MapGenerator : MonoBehaviour
     public Map[] maps;
     public int mapIndex;
 
-    public Transform tilePrefab;
+    public Transform tilePrefab; //Comment
     public Transform obstaclePrefab;
     public Transform navmeshFloor;
     public Transform navmeshMaskPrefab;
